@@ -14,4 +14,4 @@ A simple distributed application running across multiple Docker containers - Tak
 
 ## CI/CD Architecture
 
-<img src="board.png" width=250 height=200>
+<img src="board.png" width=950 height=350>

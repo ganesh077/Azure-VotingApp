@@ -4,7 +4,7 @@ A simple distributed application running across multiple Docker containers - Tak
 
 ## Architecture
 
-![Architecture diagram](architecture.excalidraw.png)
+<img src="architecture.excalidraw.png" width=250 height=200>
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes

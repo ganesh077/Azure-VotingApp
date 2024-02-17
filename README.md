@@ -1,6 +1,6 @@
-# Example Voting App
+# Voting App
 
-A simple distributed application running across multiple Docker containers.
+A simple distributed application running across multiple Docker containers - Taken from https://github.com/dockersamples.
 
 ## Architecture
 

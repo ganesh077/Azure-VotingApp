@@ -27,7 +27,7 @@ For CI, I utilized the following tools and technologies:
 - Azure Pipelines for building, testing, and deploying the application
 - Shell and Python scripts for automation tasks
 - 
-<img src="AzureRepo" width=850 height=350>
+<img src="AzureRepo.png" width=850 height=350>
 <img src="Pipelines.png" width=850 height=350>
 
 ## Continuous Deployment (CD)

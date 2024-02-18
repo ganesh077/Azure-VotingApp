@@ -19,7 +19,7 @@ The Voting Application consists of the following microservices:
 
 ## CI/CD Architecture
 
-<img src="board.png" width=900 height=450>
+<img src="board.png" width=900 height=350>
 
 ## Continuous Integration (CI)
 For CI, I utilized the following tools and technologies:

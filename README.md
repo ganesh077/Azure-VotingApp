@@ -19,7 +19,7 @@ The Voting Application consists of the following microservices:
 
 ## CI/CD Architecture
 
-<img src="board.png" width=850 height=350>
+<img src="board.png" width=900 height=450>
 
 ## Continuous Integration (CI)
 For CI, I utilized the following tools and technologies:
@@ -27,7 +27,7 @@ For CI, I utilized the following tools and technologies:
 - Azure Pipelines for building, testing, and deploying the application
 - Shell and Python scripts for automation tasks
 
-<img src="Pipelines.png" width=800 height=350>
+<img src="Pipelines.png" width=850 height=350>
 
 ## Continuous Deployment (CD)
 For CD, I will implement GitOps using Argo CD for Kubernetes-based deployments on Azure Kubernetes Service (AKS).
@@ -43,7 +43,7 @@ For CD, I will implement GitOps using Argo CD for Kubernetes-based deployments o
    - Configure automated testing and quality checks
    - Integrate with Azure Repos for version control
      
-<img src="pipe-stages.png" width=800 height=350>
+<img src="pipe-stages.png" width=850 height=350>
   
      
 3. **Implement CD with GitOps (Argo CD)**
@@ -62,5 +62,5 @@ Successfully migrated the Voting Application to Azure DevOps and established a r
 
 ## Screens
 
-<img src="Screens-1.png" width=800 height=350>
-<img src="Screens-2.png" width=800 height=450>
+<img src="Screens-1.png" width=850 height=350>
+<img src="Screens-2.png" width=850 height=450>

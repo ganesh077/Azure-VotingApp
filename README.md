@@ -63,4 +63,4 @@ Successfully migrated the Voting Application to Azure DevOps and established a r
 ## Screens
 
 <img src="Screens-1.png" width=850 height=350>
-<img src="Screens-2.png" width=850 height=450>
+<img src="Screens-2.png" width=850 height=400>
